@@ -5,3 +5,7 @@ google-generativeai
 pyyaml
 pandas
 numpy
+pypdf
+PyYAML
+altair
+httpx
